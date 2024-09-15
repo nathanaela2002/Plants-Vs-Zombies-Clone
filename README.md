@@ -4,9 +4,9 @@ Plant Vs Zombie Clone is a 2D shooter game where the player defends against wave
 ## Features
 - Main Menu: A polished menu screen that allows you to start the game, view instructions, or quit.
 - Turrets & Defenses:
- - Peashooter: Basic turret that shoots projectiles at enemies.
- - Wallnut: Acts as a barrier, providing protection.
- - Cherry Bomb: Explosive defense that deals high damage to enemies within its range.
+ -- Peashooter: Basic turret that shoots projectiles at enemies.
+ -- Wallnut: Acts as a barrier, providing protection.
+ -- Cherry Bomb: Explosive defense that deals high damage to enemies within its range.
 - Enemies: AI-controlled enemies appear on the screen and must be defeated before they reach your base.
 - In-game UI:
  - Money Counter: Shows your current amount of in-game currency used to buy more turrets and defenses.
