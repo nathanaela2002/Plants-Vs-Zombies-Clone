@@ -30,3 +30,6 @@ Plant Vs Zombie Clone is a 2D shooter game where the player defends against wave
 1. pip install pygame
 2. git clone https://github.com/yourusername/undead-escape.git
 3. python ISU.py
+
+## Video Demo
+https://youtu.be/uLUmz8ZIygw
