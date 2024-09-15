@@ -23,10 +23,10 @@ Plant Vs Zombie Clone is a 2D shooter game where the player defends against wave
 ## Strategy:
   - Manage your money carefully. Use it to buy defenses that can handle increasing enemy waves.
   - Place your defenses strategically to maximize their effectiveness. The Peashooter provides constant fire, while the Cherry Bomb deals area damage but is limited.
-## Winning the Game: \
+## Winning the Game: 
 - Survive all enemy waves and protect your base to win. If the enemies reach your base, you will lose.
 
 ## Installation
-- 1. pip install pygame
-- 2. git clone https://github.com/yourusername/undead-escape.git
-- 3. python ISU.py
+1. pip install pygame
+2. git clone https://github.com/yourusername/undead-escape.git
+3. python ISU.py
